@@ -1,0 +1,20 @@
+Premise: create a todo list web app with Nuxt
+
+1) Implement a ToDo List feature using the Nuxt useState composable
+
+2) The feature should live in a todos.vue page, create a link from it to the home page and vice versa
+
+3) Users should be able to add new todos and remove existing ones
+
+4) Ensure that todo state is preserved across navigation
+
+5) Display todos on the web page and make it interactive (add/remove/sort?)
+
+6) Test functionality
+
+From projects root folder...
+
+Steps:
+1) npx nuxi@latest init todolist
+2) cd todolist
+3) npm run dev
